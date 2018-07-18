@@ -1,0 +1,25 @@
+ΚωδΣυναλ	String	26
+Συναλασσομενος	String	42
+Παραστατικο	String	33
+Τυπος	String	38
+Ημνια	Date
+ΣυνΑξια	Number
+Χρεωση	Number
+Πιστωση	Number
+ΠρΥπολ	Number
+Τύπος_Συναλασσομενου	String	25
+Επωνυμία	String	42
+ΑΦΜ	String	20
+ΔΟΥ	String	20
+Email	String	20
+Συνομιλητής	String	20
+Τυπος_Εταιρίας	String	20
+ΔιευθυνσηΕδρας	String	20
+Πόλη_Εδρας	String	20
+Φαξ_Εδρας	String	20
+Τηλ_Εδρας	String	20
+Τηλ2_Εδρας	String	20
+Τυπος_πληρομης	String	20
+ΑΑΚΙΝ	Number
+Απο_Ημνια	Date	20
+Εώς_Ημνια	Date	20

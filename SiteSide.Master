@@ -1,0 +1,115 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="SiteSide.master.vb" Inherits="LiveCisPortal.SiteSide" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title></title>
+    <%--<script src="https://code.jquery.com/jquery-3.2.1.js"></script>--%>
+    <%--<script src="Scripts/jquery-ui-1.8.24.min.js"></script>--%>
+    <link rel="stylesheet" href="http://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jsgrid/1.5.3/jsgrid.min.css" />
+    <link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jsgrid/1.5.3/jsgrid-theme.min.css" />
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jsgrid/1.5.3/jsgrid.min.js"></script>
+
+
+    <script src="Scripts/sideNavSpec.js"></script>
+    <script src="Scripts/collapsible.js"></script>
+    <script src="Scripts/materialize.js"></script>
+    <link href="Content/materialize.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder runat="server" ID="HeaderContent">
+    </asp:ContentPlaceHolder>
+</head>
+
+<body>
+    <form id="form1" runat="server">
+        <header>
+            <div class="content-wrapper">
+                <div class="float-left">
+                    <p class="site-title">
+                </div>
+                <div class="float-right">
+                    <section id="login">
+                        <asp:LoginView ID="LoginView1" runat="server" ViewStateMode="Disabled">
+                            <LoggedInTemplate>
+                                <p>
+                                    Hello, <a id="A1" runat="server" class="username" href="~/Account/Manage" title="Manage your account">
+                                        <asp:LoginName ID="LoginName1" runat="server" CssClass="username" />
+                                    </a>!
+                                <asp:LoginStatus ID="LoginStatus1" runat="server" LogoutAction="Redirect" LogoutText="Log off" LogoutPageUrl="~/" />
+                                </p>
+                            </LoggedInTemplate>
+                        </asp:LoginView>
+                    </section>
+                    <nav style="background-image: url(Images/1PFHyYy.jpg)">
+                        <span style="font-size: 30px; cursor: pointer; margin-left: 2%" href="#" data-activates="slideOut" class="button-collapse">&#9776; </span>
+                        <ul id="menu" style="float: right">
+                            <li><a id="A2" runat="server" href="~/Default.aspx">Home</a></li>
+                            <li><a id="IdForLogOut" runat="server" href="LogoutHandler.aspx">Logout</a></li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </header>
+        <div runat="server" style="margin-left: 2%" id="SideDiv">
+            <ul id="slideOut" runat="server" class="side-nav">
+                <li>
+                    <div class="user-view">
+                        <div class="background">
+                            <img src="Images/1PFHyYy.jpg" />
+                        </div>
+                        <a href="#!user">
+                            <img class="circle" src="Images/LiveCIS.png" /></a>
+                        <a href="#!name"><span runat="server" id="spanClientName" class="white-text name">Demo Client</span></a>
+                        <a href="#!email"><span runat="server" id="spanClientEmail" class="white-text email">DemoClient@gmail.com</span></a>
+                    </div>
+                </li>
+                <li><a href="#!"><i class="material-icons">account_balance</i><%# ReturnCompany()%></a></li>
+            </ul>
+            <div>
+                <asp:ContentPlaceHolder runat="server" ID="MainContent">
+                </asp:ContentPlaceHolder>
+            </div>
+        </div>
+    </form>
+    <script type="text/javascript">
+        // Show sideNav
+        $('.button-collapse').sideNav('show');
+        // Hide sideNav
+        $('.button-collapse').sideNav('hide');
+        // Destroy sideNav
+        $('.button-collapse').sideNav('destroy');
+    </script>
+    <script type="text/javascript">
+        // Initialize collapse button
+        $(".button-collapse").sideNav();
+        // Initialize collapsible (uncomment the line below if you use the dropdown variation)
+        $('.collapsible').collapsible();
+    </script>
+    <script type="text/javascript">
+        $('.button-collapse').sideNav({
+            menuWidth: 300, // Default is 300
+            edge: 'left', // Choose the horizontal origin
+            closeOnClick: true, // Closes side-nav on <a> clicks, useful for Angular/Meteor
+            draggable: true, // Choose whether you can drag to open on touch screens,
+            onOpen: function (el) { }
+        });
+
+    </script>
+    <%--    <script type="text/javascript">
+        //$(document).ready(function () {
+        //$('#IdForLogOut').on('click', function () {
+        document.getElementById('IdForLogOut').click(function () {
+            <% LogoutRedirect()%>
+        });
+
+        //}); 
+        //});
+
+    </script>--%>
+</body>
+</html>
+

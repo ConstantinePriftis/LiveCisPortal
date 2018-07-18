@@ -1,0 +1,1112 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+LiveCisPortal
+</name>
+</assembly>
+<members>
+<member name="F:LiveCisPortal.OrdersView.DivNewOrder">
+	<summary>
+DivNewOrder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.OrdersView.CreateOrder">
+	<summary>
+CreateOrder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.OrdersView.ASPxGridViewExporter1">
+	<summary>
+ASPxGridViewExporter1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.OrdersView.imgExport">
+	<summary>
+imgExport control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.OrdersView.GridDiv">
+	<summary>
+GridDiv control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.OrdersView.MainGrid">
+	<summary>
+MainGrid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal._Default.WelcomeLabel">
+	<summary>
+WelcomeLabel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal._Default.fsInfo">
+	<summary>
+fsInfo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal._Default.tblBasicInfo">
+	<summary>
+tblBasicInfo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal._Default.lblNAme">
+	<summary>
+lblNAme control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal._Default.lblCmtp">
+	<summary>
+lblCmtp control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal._Default.lblEaddress">
+	<summary>
+lblEaddress control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal._Default.lblEcity">
+	<summary>
+lblEcity control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal._Default.lblPersonType">
+	<summary>
+lblPersonType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Orders.ASPxFormLayout1">
+	<summary>
+ASPxFormLayout1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Orders.LayoutItemNestedControlContainer1">
+	<summary>
+LayoutItemNestedControlContainer1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Orders.ASPxTextBox1">
+	<summary>
+ASPxTextBox1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Orders.LayoutItemNestedControlContainer2">
+	<summary>
+LayoutItemNestedControlContainer2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Orders.txtDocType">
+	<summary>
+txtDocType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Orders.LayoutItemNestedControlContainer3">
+	<summary>
+LayoutItemNestedControlContainer3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Orders.txtPersonCode">
+	<summary>
+txtPersonCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Orders.LayoutItemNestedControlContainer4">
+	<summary>
+LayoutItemNestedControlContainer4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Orders.txtDocDescr">
+	<summary>
+txtDocDescr control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Orders.LayoutItemNestedControlContainer5">
+	<summary>
+LayoutItemNestedControlContainer5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Orders.txtPersname">
+	<summary>
+txtPersname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Orders.LayoutItemNestedControlContainer6">
+	<summary>
+LayoutItemNestedControlContainer6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Orders.txtCode">
+	<summary>
+txtCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Orders.LayoutItemNestedControlContainer7">
+	<summary>
+LayoutItemNestedControlContainer7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Orders.DateDD">
+	<summary>
+DateDD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Orders.LayoutItemNestedControlContainer8">
+	<summary>
+LayoutItemNestedControlContainer8 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Orders.txtFpa">
+	<summary>
+txtFpa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Orders.LayoutItemNestedControlContainer9">
+	<summary>
+LayoutItemNestedControlContainer9 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Orders.AspMemo">
+	<summary>
+AspMemo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Orders.hdDocAA">
+	<summary>
+hdDocAA control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Orders.Panel1">
+	<summary>
+Panel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Orders.tblPAR">
+	<summary>
+tblPAR control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Orders.lblEidos">
+	<summary>
+lblEidos control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Orders.lblPosothta">
+	<summary>
+lblPosothta control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Orders.lblKataxorish">
+	<summary>
+lblKataxorish control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Orders.ASPxComboBox1">
+	<summary>
+ASPxComboBox1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Orders.ASPxTextBox3">
+	<summary>
+ASPxTextBox3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Orders.btnSubmit">
+	<summary>
+btnSubmit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Orders.MainGrid">
+	<summary>
+MainGrid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Orders.btnFinalSubmit">
+	<summary>
+btnFinalSubmit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Orders.SqlDataSourceline">
+	<summary>
+SqlDataSourceline control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.TestingControls.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.TestingControls.DateEditTest">
+	<summary>
+DateEditTest control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.TestingControls.Button1">
+	<summary>
+Button1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Manage.successMessage">
+	<summary>
+successMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Manage.setPassword">
+	<summary>
+setPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Manage.password">
+	<summary>
+password control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Manage.confirmPassword">
+	<summary>
+confirmPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Manage.changePassword">
+	<summary>
+changePassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:LiveCisPortal.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:LiveCisPortal.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:LiveCisPortal.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:LiveCisPortal.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:LiveCisPortal.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="T:LiveCisPortal.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LiveCisPortal.SiteSide.Head1">
+	<summary>
+Head1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.SiteSide.HeaderContent">
+	<summary>
+HeaderContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.SiteSide.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.SiteSide.LoginView1">
+	<summary>
+LoginView1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.SiteSide.A2">
+	<summary>
+A2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.SiteSide.IdForLogOut">
+	<summary>
+IdForLogOut control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.SiteSide.SideDiv">
+	<summary>
+SideDiv control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.SiteSide.slideOut">
+	<summary>
+slideOut control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.SiteSide.MainContent">
+	<summary>
+MainContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Login.RegisterHyperLink">
+	<summary>
+RegisterHyperLink control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Login.OpenAuthLogin">
+	<summary>
+OpenAuthLogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.TestingOrders.ASPxFormLayout1">
+	<summary>
+ASPxFormLayout1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.TestingOrders.ASPxTextBox1">
+	<summary>
+ASPxTextBox1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.TestingOrders.LayoutItemNestedControlContainer1">
+	<summary>
+LayoutItemNestedControlContainer1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.TestingOrders.txtDocType">
+	<summary>
+txtDocType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.TestingOrders.txtPersonCode">
+	<summary>
+txtPersonCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.TestingOrders.txtDocDescr">
+	<summary>
+txtDocDescr control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.TestingOrders.txtPersname">
+	<summary>
+txtPersname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.TestingOrders.txtCode">
+	<summary>
+txtCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.TestingOrders.DateDD">
+	<summary>
+DateDD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.TestingOrders.txtFpa">
+	<summary>
+txtFpa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.TestingOrders.AspMemo">
+	<summary>
+AspMemo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.TestingOrders.hdDocAA">
+	<summary>
+hdDocAA control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.TestingOrders.ScriptManager">
+	<summary>
+ScriptManager control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.TestingOrders.UpdatePanel1">
+	<summary>
+UpdatePanel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.TestingOrders.Panel1">
+	<summary>
+Panel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.TestingOrders.tblPAR">
+	<summary>
+tblPAR control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.TestingOrders.lblEidos">
+	<summary>
+lblEidos control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.TestingOrders.lblPosothta">
+	<summary>
+lblPosothta control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.TestingOrders.lblKataxorish">
+	<summary>
+lblKataxorish control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.TestingOrders.ASPxComboBox1">
+	<summary>
+ASPxComboBox1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.TestingOrders.ASPxTextBox3">
+	<summary>
+ASPxTextBox3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.TestingOrders.btnSubmit">
+	<summary>
+btnSubmit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.TestingOrders.MainGrid">
+	<summary>
+MainGrid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.TestingOrders.btnFinalSubmit">
+	<summary>
+btnFinalSubmit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.TestingOrders.SqlDataSourceline">
+	<summary>
+SqlDataSourceline control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Register.RegisterUser">
+	<summary>
+RegisterUser control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Register.RegisterUserWizardStep">
+	<summary>
+RegisterUserWizardStep control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Reports.CretDiv">
+	<summary>
+CretDiv control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Reports.Creter">
+	<summary>
+Creter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Reports.Button1">
+	<summary>
+Button1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Reports.Combo1">
+	<summary>
+Combo1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Site_Mobile.Head1">
+	<summary>
+Head1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Site_Mobile.HeadContent">
+	<summary>
+HeadContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Site_Mobile.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Site_Mobile.FeaturedContent">
+	<summary>
+FeaturedContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Site_Mobile.MainContent">
+	<summary>
+MainContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Site_Mobile.ViewSwitcher1">
+	<summary>
+ViewSwitcher1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Lists.DxExporter">
+	<summary>
+DxExporter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Lists.imgExport">
+	<summary>
+imgExport control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Lists.GridDiv">
+	<summary>
+GridDiv control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.Lists.MainGrid">
+	<summary>
+MainGrid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.LoginView.Head1">
+	<summary>
+Head1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.LoginView.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.LoginView.Legend">
+	<summary>
+Legend control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.LoginView.lblCompany">
+	<summary>
+lblCompany control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.LoginView.LiveLogo">
+	<summary>
+LiveLogo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.LoginView.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.LoginView.UserName">
+	<summary>
+UserName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.LoginView.Label2">
+	<summary>
+Label2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.LoginView.PassWord">
+	<summary>
+PassWord control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.LoginView.RequiredFieldValidator1">
+	<summary>
+RequiredFieldValidator1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.LoginView.Loginbtn">
+	<summary>
+Loginbtn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.LoginView.lblError">
+	<summary>
+lblError control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.LoginView.Label3">
+	<summary>
+Label3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.LoginView.txtUserReg">
+	<summary>
+txtUserReg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.LoginView.Label4">
+	<summary>
+Label4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.LoginView.txtPassReg">
+	<summary>
+txtPassReg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.LoginView.btnSave">
+	<summary>
+btnSave control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.LogoutHandler.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.SiteMaster.HeadContent">
+	<summary>
+HeadContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.SiteMaster.FeaturedContent">
+	<summary>
+FeaturedContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.SiteMaster.MainContent">
+	<summary>
+MainContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="M:LiveCisPortal.LPVARS.Fgridpop(System.String,DevExpress.Web.ASPxGridView.ASPxGridView,System.String,System.String,System.String)">
+	<summary>
+	</summary>
+	<param name="Constr"></param>
+	<param name="LP_grid"></param>
+	<param name="Selsql"></param>
+	<param name="Delsql"></param>
+	<param name="namestring"></param>
+	<remarks></remarks>
+</member><member name="M:LiveCisPortal.LPVARS.DocToArticle(System.Int32,System.String)">
+	<summary>
+ Παραγωγή Άρθρου για Παραστατικό. Τα αποτελέσματα προστίθενται στον Πίνακα 'BBridgeArticles'
+ </summary>
+	<param name="DocAA">Δώσε το πεδίο AA του Παραστατικού</param>
+	<param name="Constr">Δώσε το Connection String για σύνδεση στην Βάση</param>
+	<remarks></remarks>
+</member><member name="M:LiveCisPortal.LPVARS.sendSMS(System.String,System.String,System.String,System.String,System.String,System.String)">
+	<summary>
+ Αποστολή SMS
+ </summary>
+	<param name="UserName">Δώσε Όνομα Χρήστη LiveCIS. 'Session("uname")'</param>
+	<param name="fromName">Δώσε Όνομα Αποστολέα</param>
+	<param name="messageText">Δώσε Κείμενο SMS</param>
+	<param name="toMobilePhone">Δώσε κινητό τηλέφωνο Παραλήπτη</param>
+	<param name="chargeDatabase">Δώσε Database για Χρέωση</param>
+	<param name="Constr">Δώσε Connection String με την ComvoiceMaster. 'LPVARS.cnxstring'</param>
+	<returns>True,False</returns>
+	<remarks></remarks>
+</member><member name="F:LiveCisPortal.OpenAuthProviders.providerDetails">
+	<summary>
+providerDetails control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.RegisterExternalLogin.userNameForm">
+	<summary>
+userNameForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.RegisterExternalLogin.userName">
+	<summary>
+userName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.ReportsTest.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:LiveCisPortal.ReportsTest.Gv2">
+	<summary>
+Gv2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>
